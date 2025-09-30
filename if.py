@@ -9,3 +9,8 @@ else:
     print("It's neither hot nor cold")
     print("Have a nice day")
 print("Enjoy your day")
+
+# tenary operator
+age = 18
+message = "Eligible to vote" if age >= 18 else "Not eligible to vote"
+print(message)
