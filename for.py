@@ -1,2 +1,2 @@
-for number in range(1, 6):
+for number in range(6):
     print("Current number:", number)
