@@ -19,10 +19,20 @@
 # first program in python
 name = "sally"
 age = 25
-height = 7.4
+height = 7.99
 is_student = True
 
 print("name is", type(name))
 print(type(age))
 print(type(height))
 print(type(is_student))
+
+# typecasting
+age = float(age)
+
+print("age is", type(age))
+
+print(age)
+
+height = int(height)
+print(height)
