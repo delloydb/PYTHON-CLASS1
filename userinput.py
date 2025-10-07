@@ -16,4 +16,4 @@ length = input("enter length of rectangle: ")
 width = input("enter width of rectangle: ")
 
 area = float(length) * float(width)
-print("area of rectangle is", area)
+print(f"area of rectangle is: {area}")
