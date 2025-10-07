@@ -36,6 +36,9 @@ print(unique_numbers, unique_fruits)
 print(data, result)
 print(" End of variables.py ")  # first program in python
 
+numbers_of_students = 25
+
+print(f"Number of students is {numbers_of_students}")
 
 print(10 + 5)  # addition
 print(10 - 5)  # subtraction
