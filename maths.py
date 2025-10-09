@@ -64,3 +64,17 @@ print(math.exp(1))
 print(math.expm1(1))
 print(math.log1p(1))
 print(math.log2(8))
+
+# area and circumference of a circle math module
+radius = input("Enter the radius of the circle: ")
+radius = float(radius)
+area = math.pi * radius**2
+circumference = 2 * math.pi * radius
+print("Area of the circle:", area)
+print("Circumference of the circle:", circumference)
+
+# hypotenuse of a right triangle
+a = float(input("Enter length of side a: "))
+b = float(input("Enter length of side b: "))
+hypotenuse = math.hypot(a, b)
+print("Length of the hypotenuse:", hypotenuse)
