@@ -30,44 +30,37 @@ Here you’ll find:
 
 ty/* */ # break ?""*
 Technology Stack
-Tool	Purpose
-Python	Core language
-Git & GitHub	Version control and collaboration
-Jupyter Notebooks	Interactive learning environment
-Flask / FastAPI	Web experimentation
-Bash / Linux	Scripting and system interaction
+-Tool	Purpose
+-Python	Core language
+-Git & GitHub	Version control and collaboration
+-Jupyter Notebooks	Interactive learning environment
+-Flask / FastAPI	Web experimentation
+-Bash / Linux	Scripting and system interaction
+
 Learning Goals
-
-Strengthen understanding of Python fundamentals
-
-Develop algorithmic and analytical thinking
-
-Apply programming to cybersecurity contexts
-
-Explore automation and DevSecOps scripting
+-Strengthen understanding of Python fundamentals
+-Develop algorithmic and analytical thinking
+-Apply programming to cybersecurity contexts
+-Explore automation and DevSecOps scripting
 
 Build scalable, maintainable projects
 
 Current Focus
-Area	Description
-Fundamentals	Syntax, control flow, OOP, data structures
-Problem Solving	Algorithms, recursion, optimization
-Automation	File management, networking, APIs
-Cybersecurity	Ethical hacking scripts and utilities
-Web Development	Flask and FastAPI micro-projects
+-Area	Description
+-Fundamentals	Syntax, control flow, OOP, data structures
+-Problem Solving	Algorithms, recursion, optimization
+-Automation	File management, networking, APIs
+-Cybersecurity	Ethical hacking scripts and utilities
+-Web Development	Flask and FastAPI micro-projects
+
 Project Ideas in Progress
-
-AI-based password strength analyzer
-
-Log parser and visualizer for system monitoring
-
-Lightweight network scanner
-
-Automated vulnerability reporting tool
+-AI-based password strength analyzer
+-Log parser and visualizer for system monitoring
+-Lightweight network scanner
+-Automated vulnerability reporting tool
 
 Repository Usage
-
-Clone this repository:
+-Clone this repository:
 
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
@@ -84,21 +77,14 @@ jupyter notebook
 
 Learning Roadmap
 
-Core Python Syntax and Control Flow
-
-Functions, Classes, and OOP Principles
-
-Data Structures and Algorithms
-
-File I/O and Automation
-
-Working with APIs and Networking
-
-Cybersecurity and Scripting
-
-Web Development with Flask / FastAPI
-
-Intro to AI and Machine Learning
+-Core Python Syntax and Control Flow
+-Functions, Classes, and OOP Principles
+-Data Structures and Algorithms
+-File I/O and Automation
+-Working with APIs and Networking
+-Cybersecurity and Scripting---big focus
+-Web Development with Flask / FastAPI
+-Intro to AI and Machine Learning
 
 Development Environment
 Component	Version / Tool
