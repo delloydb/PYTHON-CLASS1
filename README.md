@@ -25,16 +25,7 @@ Here you’ll find:
 
 ---
 
-## Visual Snapshot
 
-```text
-╭──────────────────────────────╮
-│  import curiosity            │
-│  def learn():                │
-│      while True:             │
-│          code()              │
-│          debug()             │
-│          grow()              │
 ╰──────────────────────────────╯
 
 ty/* */ # break ?""*
